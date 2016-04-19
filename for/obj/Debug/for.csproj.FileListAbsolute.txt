@@ -1,0 +1,6 @@
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\for\bin\Debug\@for.exe.config
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\for\bin\Debug\@for.exe
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\for\bin\Debug\@for.pdb
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\for\obj\Debug\for.csprojResolveAssemblyReference.cache
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\for\obj\Debug\@for.exe
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\for\obj\Debug\@for.pdb

@@ -1,0 +1,5 @@
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
