@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\subir_net\clave\bin\Debug\clave.exe.config
+C:\Users\Martin\Desktop\subir_net\clave\bin\Debug\clave.exe
+C:\Users\Martin\Desktop\subir_net\clave\bin\Debug\clave.pdb
+C:\Users\Martin\Desktop\subir_net\clave\obj\Debug\clave.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\subir_net\clave\obj\Debug\clave.exe
+C:\Users\Martin\Desktop\subir_net\clave\obj\Debug\clave.pdb

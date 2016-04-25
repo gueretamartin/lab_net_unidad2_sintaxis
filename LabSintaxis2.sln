@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "romanos", "romanos\romanos.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primosGemelos", "primosGemelos\primosGemelos.csproj", "{98545BE3-DE48-4498-82E1-77E74E4378FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clave", "clave\clave.csproj", "{52DE0F47-0026-4A97-9684-0FB85C1A5D54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -70,6 +72,10 @@ Global
 		{98545BE3-DE48-4498-82E1-77E74E4378FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98545BE3-DE48-4498-82E1-77E74E4378FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98545BE3-DE48-4498-82E1-77E74E4378FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DE0F47-0026-4A97-9684-0FB85C1A5D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DE0F47-0026-4A97-9684-0FB85C1A5D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DE0F47-0026-4A97-9684-0FB85C1A5D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DE0F47-0026-4A97-9684-0FB85C1A5D54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
