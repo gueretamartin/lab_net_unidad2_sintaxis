@@ -3,3 +3,8 @@ D:\NET\Labs\LabSintaxis2\LabSintaxis2\ConsoleApplication3\bin\Debug\ConsoleAppli
 D:\NET\Labs\LabSintaxis2\LabSintaxis2\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
 D:\NET\Labs\LabSintaxis2\LabSintaxis2\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
 D:\NET\Labs\LabSintaxis2\LabSintaxis2\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Martin\Desktop\subir_net\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Martin\Desktop\subir_net\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Martin\Desktop\subir_net\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Martin\Desktop\subir_net\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Martin\Desktop\subir_net\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
