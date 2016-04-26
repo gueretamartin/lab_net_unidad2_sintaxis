@@ -1,0 +1,2 @@
+C:\Users\LENI-ALUMNO\Documents\MAR\lab_net_unidad2_sintaxis-master\lab_net_unidad2_sintaxis-master\TransformarTexto\bin\Debug\LabSintaxis2.exe.config
+C:\Users\LENI-ALUMNO\Documents\MAR\lab_net_unidad2_sintaxis-master\lab_net_unidad2_sintaxis-master\TransformarTexto\obj\Debug\LabSintaxis2.pdb

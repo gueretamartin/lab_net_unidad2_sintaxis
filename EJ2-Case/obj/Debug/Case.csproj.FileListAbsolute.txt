@@ -1,0 +1,17 @@
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\NET\Labs\LabSintaxis2\LabSintaxis2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Martin\Desktop\subir_net\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Martin\Desktop\subir_net\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Martin\Desktop\subir_net\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Martin\Desktop\subir_net\ConsoleApplication1\obj\Debug\Case.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\subir_net\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Martin\Desktop\subir_net\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\LENI-ALUMNO\Documents\MAR\lab_net_unidad2_sintaxis-master\lab_net_unidad2_sintaxis-master\Case\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\LENI-ALUMNO\Documents\MAR\lab_net_unidad2_sintaxis-master\lab_net_unidad2_sintaxis-master\Case\obj\Debug\ConsoleApplication1.pdb
+C:\Users\LENI-ALUMNO\Documents\MAR\lab_net_unidad2_sintaxis-master\lab_net_unidad2_sintaxis-master\Case\bin\Debug\ConsoleApplication1.exe
+C:\Users\LENI-ALUMNO\Documents\MAR\lab_net_unidad2_sintaxis-master\lab_net_unidad2_sintaxis-master\Case\bin\Debug\ConsoleApplication1.pdb
+C:\Users\LENI-ALUMNO\Documents\MAR\lab_net_unidad2_sintaxis-master\lab_net_unidad2_sintaxis-master\Case\obj\Debug\Case.csprojResolveAssemblyReference.cache
+C:\Users\LENI-ALUMNO\Documents\MAR\lab_net_unidad2_sintaxis-master\lab_net_unidad2_sintaxis-master\Case\obj\Debug\ConsoleApplication1.exe
